@@ -2,7 +2,7 @@
 # metaPreg
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/R-garreau/metaPreg/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/R-garreau/PKtool/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/R-garreau/metaPreg/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/R-garreau/metaPreg/actions/workflows/R-CMD-check.yaml)
 [![codecov](https://codecov.io/github/R-garreau/metaPreg/graph/badge.svg?token=F4IMFSQA8D)](https://codecov.io/github/R-garreau/metaPreg)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![License: GPL-3](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://cran.r-project.org/web/licenses/GPL-3)
